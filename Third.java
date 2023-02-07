@@ -1,1 +1,4 @@
-public class Third{}
+public class Third{
+  public void methodA(){}
+
+}
